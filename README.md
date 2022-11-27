@@ -21,12 +21,15 @@ Os operadores lógicos atuam sobre expressões e também resultam em valores ló
 <img src="https://user-images.githubusercontent.com/100056877/204165691-456dd516-9217-4934-b2a6-1e413d4689b7.png"/>
  </div>
 
+
 A tabela abaixo – chamada **TABELA-VERDADE** – mostra os resultados das aplicações dos 
 operadores lógicos conforme os valores dos operadores envolvidos.
+
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/100056877/204165797-edee38c6-525e-4ccb-bae7-b091519f761f.png"/>
  </div>
+
 
 De acordo com a necessidade, as expressões podem ser unidas pelos operadores lógicos. 
 
@@ -61,9 +64,11 @@ Exemplo - 1.2:
 
 **fimse** 
 
+
 <div align="center">
 <img src="https://user-images.githubusercontent.com/100056877/204166325-234e4617-7a39-44fe-a4cd-7e3093623eca.png"/>
  </div>
+
 
 Exemplo - 1.3: 
 
