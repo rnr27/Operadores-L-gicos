@@ -55,7 +55,9 @@ nosso Português Estruturado:
 Exemplo - 2 
 
 **se** "tiver R$ 10,00 sobrando" **entao** 
+ 
  "irei ao cinema" 
+
 **fimse** 
 
 <div align="center">
@@ -65,8 +67,11 @@ Exemplo - 2
 Exemplo - 3 
 
 **se** Dinheiro >= 10 **entao** 
- Ir_ao_Cinema <- **VERDADEIRO** 
+
+Ir_ao_Cinema <- **VERDADEIRO** 
+
 **Fimse**
+
 
 # Exercicios
 
@@ -74,8 +79,10 @@ Exemplo - 3
 80Km/h, exiba uma mensagem dizendo que o usuário foi multado. Nesse caso, exiba 
 o valor da multa, cobrando R$5 por cada Km acima da velocidade permitida.
 
+
 **2 -** Desenvolva um programa que leia um número inteiro e mostre se ele é PAR ou 
 ÍMPAR.
+
 
 **3 -** Escreva um programa que leia o ano de nascimento de um rapaz e mostre a sua 
 situação em relação ao alistamento militar.
@@ -84,12 +91,14 @@ alistamento.
  - Se já tiver depois dos 18 anos, mostre quantos anos já se passaram do 
 alistamento.
 
+
 **4 -** Numa promoção exclusiva para o Dia da Mulher, uma loja quer dar descontos 
 para todos, mas especialmente para mulheres. Faça um programa que leia nome, 
 sexo e o valor das compras do cliente e calcule o preço com desconto. Sabendo 
 que:
  - Homens ganham 5% de desconto
  - Mulheres ganham 13% de desconto
+
 
 **5 -** Faça um algoritmo que pergunte a distância que um passageiro deseja 
 percorrer em Km. Calcule o preço da passagem, cobrando R$0.50 por Km para 
