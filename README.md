@@ -20,7 +20,7 @@ Os operadores lógicos atuam sobre expressões e também resultam em valores ló
 <div align="center">
 <img src="https://user-images.githubusercontent.com/100056877/204165691-456dd516-9217-4934-b2a6-1e413d4689b7.png"/>
  </div>
-""
+
 
 A tabela abaixo – chamada **TABELA-VERDADE** – mostra os resultados das aplicações dos 
 operadores lógicos conforme os valores dos operadores envolvidos.
