@@ -17,5 +17,5 @@ Os operadores lógicos atuam sobre expressões e também resultam em valores ló
 **VERDADEIRO** ou **FALSO**.
 
 <div align="center">
-<img src="![op1](https://user-images.githubusercontent.com/100056877/204165691-456dd516-9217-4934-b2a6-1e413d4689b7.png)"/>
+<img src="https://user-images.githubusercontent.com/100056877/204165691-456dd516-9217-4934-b2a6-1e413d4689b7.png"/>
  </div>
