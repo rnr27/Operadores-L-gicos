@@ -14,4 +14,6 @@ Exemplo:
 Os operadores lógicos atuam sobre expressões e também resultam em valores lógicos 
 **VERDADEIRO** ou **FALSO**.
 
-!https://freeimage.host/i/HKjWAbe
+<div align="center">
+<img src="https://freeimage.host/i/HKjWAbe" width="700px"/>
+ </div>
