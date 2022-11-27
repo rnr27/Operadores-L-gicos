@@ -9,6 +9,7 @@ de acordo com o tipo de dados dos operandos especificados na expressão.
 Os operadores aritméticos executam operações matemáticas, como adição e subtração com operandos.**
 
 Exemplo:
+
 **2+5>4 resulta VERDADEIRO** (2 + 5 MAIOR que 4, resulta em **VERDADEIRO**)
 
 **3<>3 resulta FALSO** (3 DIFERENTE de 3, resulta em **FALSO**)
@@ -38,7 +39,7 @@ Na vida real tomamos decisões a todo o momento baseadas em uma situação exist
 Em um algoritmo, chamamos esta situação de condição. Associada a uma condição, existirá 
 uma alternativa possível de ações.
 
-Exemplo - 1 
+Exemplo - 1.1: 
  
  "se tiver R$ 10,00 sobrando então irei ao cinema hoje à noite.”
 
@@ -52,7 +53,7 @@ que serão realizados apenas se a avaliação da condição resulta **VERDADEIRO
 Vamos colocar agora a frase do exemplo anterior em outra forma, mais parecida com 
 nosso Português Estruturado: 
 
-Exemplo - 2 
+Exemplo - 1.2: 
 
 **se** "tiver R$ 10,00 sobrando" **entao** 
  
@@ -64,7 +65,7 @@ Exemplo - 2
 <img src="https://user-images.githubusercontent.com/100056877/204166325-234e4617-7a39-44fe-a4cd-7e3093623eca.png"/>
  </div>
 
-Exemplo - 3 
+Exemplo - 1.3: 
 
 **se** Dinheiro >= 10 **entao** 
 
