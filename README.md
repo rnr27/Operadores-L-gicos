@@ -4,7 +4,7 @@
 com valores lógicos 1 ou 0, ou então, Verdadeiro ou Falso. Uma situação pode ou não ser verdadeira, 
 ou falsa, dependendo da condição em que se encontra.**
 
-**Os operadores são aritméticos, lógicos e relacionais. Alguns operadores variam em funcionalidade 
+**Os operadores na lógica de programação são em sua maioria aritméticos, lógicos e/ou relacionais(comparativos). Alguns operadores variam em funcionalidade 
 de acordo com o tipo de dados dos operandos especificados na expressão. 
 Os operadores aritméticos executam operações matemáticas, como adição e subtração com operandos.**
 
