@@ -1,6 +1,6 @@
 # Operadores-Logicos
 
-**Os operadores lógicos são aqueles que analisam condições, são operadores que analisaram operandos 
+**Na lógica de programação os operadores lógicos são aqueles que analisam condições, são operadores que analisaram operandos 
 com valores lógicos 1 ou 0, ou então, Verdadeiro ou Falso. Uma situação pode ou não ser verdadeira, 
 ou falsa, dependendo da condição em que se encontra.**
 
